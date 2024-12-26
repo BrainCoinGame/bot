@@ -1,6 +1,6 @@
 export default {
   async fetch(request, env, ctx) {
-    const TOKEN = env.TELEGRAM_BOT_TOKEN;
+    const TOKEN = env.8192560984:AAH3eXTADJAGyeBZCpUE2Ek9NpBCfq0dFAs;
     const WEBAPP_URL = 'https://braincoingame.web.app/';
     
     async function sendTelegramMessage(chatId, text, markup) {
