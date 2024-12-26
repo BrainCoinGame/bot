@@ -1,5 +1,5 @@
-name = "braincoin-game-bot"
-
+name = "braincoin-game-bot" # Убедитесь, что это имя совпадает с именем вашего Worker
+   
 main = "worker.js" # Путь к вашему файлу точки входа
 
 compatibility_date = "2024-12-26" # Установите текущую или прошедшую дату
@@ -12,6 +12,7 @@ zone_id = ""
 
 [vars]
 TELEGRAM_TOKEN = "AAH3eXTADJAGyeBZCpUE2Ek9NpBCfq0dFAs"
+
 
 
 
