@@ -1,0 +1,17 @@
+name = "braincoin-game-bot"
+
+main = "worker.js" # Путь к вашему файлу точки входа
+
+compatibility_date = "2024-12-26" # Установите текущую или прошедшую дату
+
+[env]
+account_id = "your-cloudflare-account-id"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[vars]
+TELEGRAM_TOKEN = "AAH3eXTADJAGyeBZCpUE2Ek9NpBCfq0dFAs"
+
+
+
